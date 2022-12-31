@@ -2,7 +2,7 @@
 
 # AbstractOS
 
-A Minimal, extremely Abstract Operating System written in C & a tiny bit of Assembly.  
+A Minimal, extremely Abstract x86 Operating System written in C & a tiny bit of Assembly.  
 Refer to *"The little book about OS development"* by Erik Helin & Adam Renberg.
 
 !["Welcome to AbstractOS!"](demo.gif)

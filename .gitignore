@@ -4,3 +4,4 @@ dist/
 bochslog.txt
 src/kernel.elf
 AbstractOS.iso
+com1.out
