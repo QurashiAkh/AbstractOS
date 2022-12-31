@@ -1,0 +1,4 @@
+*.o
+bochslog.txt
+src/kernel.elf
+AbstractOS.iso
