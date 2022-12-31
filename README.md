@@ -13,5 +13,7 @@ Better than dying while acknowledging that you didn't take a shot at making your
 
 ## Setup
 
-The whole System is under the `src/` Directory, so if you want to to build it on your own just navigate there and `make` the System.  
+The whole System is under the `src/` Directory, so if you want to to build it on your own you should install these Dependencies:  
+```sudo apt-get install build-essential nasm xorriso grub-pc-bin bochs bochs-sdl```  
+Navigate to the `src/` Directory and `make` the System.  
 If you don't want to do that, but rather just testing, you can download the `AbstractOS.iso` File from the Releases Tab in this Repo. You can burn it into a USB or a CD and run it on a Machine, or just put it in a VM.
